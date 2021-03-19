@@ -1,0 +1,497 @@
+# depslib dependency file v1.0
+1592345513 source:d:\matias\facultad\cuatrimestre 2\lab 2\tpfinallab2\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"empleados.h"
+	"metodosEmpleados.h"
+	"metodosLibros.h"
+	"libros.h"
+	"metodosVentas.h"
+	"ventas.h"
+	"configuracion.h"
+
+1591994325 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinallab2\clases.h
+
+1592346468 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinallab2\empleados.h
+
+1592346063 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinallab2\metodosventas.h
+
+1592347596 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinallab2\metodosempleados.h
+
+1591997622 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinallab2\metodoslibros.h
+	<iostream>
+
+1591913430 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinallab2\metodosfecha.h
+
+1592347080 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinallab2\libros.h
+
+1592346540 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinallab2\ventas.h
+
+1592014788 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinallab2\configuracion.h
+
+1592345514 source:c:\users\alejo\desktop\tpfinallab2\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"empleados.h"
+	"metodosEmpleados.h"
+	"metodosLibros.h"
+	"libros.h"
+	"metodosVentas.h"
+	"ventas.h"
+	"configuracion.h"
+
+1592348048 c:\users\alejo\desktop\tpfinallab2\empleados.h
+
+1592348235 c:\users\alejo\desktop\tpfinallab2\metodosempleados.h
+
+1591997624 c:\users\alejo\desktop\tpfinallab2\metodoslibros.h
+	<iostream>
+
+1592347082 c:\users\alejo\desktop\tpfinallab2\libros.h
+
+1592346064 c:\users\alejo\desktop\tpfinallab2\metodosventas.h
+
+1592346542 c:\users\alejo\desktop\tpfinallab2\ventas.h
+
+1592014790 c:\users\alejo\desktop\tpfinallab2\configuracion.h
+
+1592345514 source:d:\matias\facultad\cuatrimestre 2\lab 2\andando\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"empleados.h"
+	"metodosEmpleados.h"
+	"metodosLibros.h"
+	"libros.h"
+	"metodosVentas.h"
+	"ventas.h"
+	"configuracion.h"
+
+1592349851 d:\matias\facultad\cuatrimestre 2\lab 2\andando\empleados.h
+
+1592349745 d:\matias\facultad\cuatrimestre 2\lab 2\andando\metodosempleados.h
+
+1592350222 d:\matias\facultad\cuatrimestre 2\lab 2\andando\metodoslibros.h
+	<iostream>
+
+1592350421 d:\matias\facultad\cuatrimestre 2\lab 2\andando\libros.h
+
+1592346064 d:\matias\facultad\cuatrimestre 2\lab 2\andando\metodosventas.h
+
+1592350326 d:\matias\facultad\cuatrimestre 2\lab 2\andando\ventas.h
+
+1592014790 d:\matias\facultad\cuatrimestre 2\lab 2\andando\configuracion.h
+
+1593890351 source:d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<cstdio>
+	"empleados.h"
+	"metodosEmpleados.h"
+	"metodosEditoriales.h"
+	"editoriales.h"
+	"metodosAutores.h"
+	"autores.h"
+	"metodosLibros.h"
+	"libros.h"
+	"metodosVentas.h"
+	"ventas.h"
+	"configuracion.h"
+	"reportes.h"
+
+1593893672 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\empleados.h
+
+1593888356 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\metodosempleados.h
+
+1593892092 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\metodoslibros.h
+	<iostream>
+
+1593657953 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\libros.h
+
+1593658361 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\metodosventas.h
+
+1593658316 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\ventas.h
+
+1593658338 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\configuracion.h
+
+1593893320 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\metodosautores.h
+
+1593640512 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\autores.h
+
+1593892599 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\metodoseditoriales.h
+
+1593892190 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\editoriales.h
+
+1593894724 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\reportes.h
+
+1593830204 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinal_casi terminado\fechas.h
+	<ctime>
+
+1593992204 source:c:\users\alejo\desktop\tpfinalterminado\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<cstdio>
+	"rlutil.h"
+	"empleados.h"
+	"metodosEmpleados.h"
+	"metodosEditoriales.h"
+	"editoriales.h"
+	"metodosAutores.h"
+	"autores.h"
+	"metodosLibros.h"
+	"libros.h"
+	"metodosVentas.h"
+	"ventas.h"
+	"configuracion.h"
+	"reportes.h"
+
+1571584339 c:\users\alejo\desktop\tpfinalterminado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593991659 c:\users\alejo\desktop\tpfinalterminado\empleados.h
+
+1593992378 c:\users\alejo\desktop\tpfinalterminado\metodosempleados.h
+
+1593992304 c:\users\alejo\desktop\tpfinalterminado\metodoseditoriales.h
+
+1593991530 c:\users\alejo\desktop\tpfinalterminado\editoriales.h
+
+1593992256 c:\users\alejo\desktop\tpfinalterminado\metodosautores.h
+
+1593991386 c:\users\alejo\desktop\tpfinalterminado\autores.h
+
+1593992449 c:\users\alejo\desktop\tpfinalterminado\metodoslibros.h
+	<iostream>
+
+1593992203 c:\users\alejo\desktop\tpfinalterminado\libros.h
+
+1593992550 c:\users\alejo\desktop\tpfinalterminado\metodosventas.h
+
+1593992707 c:\users\alejo\desktop\tpfinalterminado\ventas.h
+
+1593991238 c:\users\alejo\desktop\tpfinalterminado\configuracion.h
+
+1593992638 c:\users\alejo\desktop\tpfinalterminado\reportes.h
+
+1594074704 source:c:\users\matia\desktop\tpfinalterminado(ahora con colores)\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<cstdio>
+	"rlutil.h"
+	"empleados.h"
+	"metodosEmpleados.h"
+	"metodosEditoriales.h"
+	"editoriales.h"
+	"metodosAutores.h"
+	"autores.h"
+	"metodosLibros.h"
+	"libros.h"
+	"metodosVentas.h"
+	"ventas.h"
+	"configuracion.h"
+	"reportes.h"
+
+1571584339 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593991659 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\empleados.h
+
+1593992378 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\metodosempleados.h
+
+1593992304 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\metodoseditoriales.h
+
+1593991530 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\editoriales.h
+
+1593992256 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\metodosautores.h
+
+1593991386 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\autores.h
+
+1593992449 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\metodoslibros.h
+	<iostream>
+
+1593992203 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\libros.h
+
+1593994286 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\metodosventas.h
+
+1594074895 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\ventas.h
+
+1593991238 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\configuracion.h
+
+1593992638 c:\users\matia\desktop\tpfinalterminado(ahora con colores)\reportes.h
+
+1594075201 source:d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<cstdio>
+	"rlutil.h"
+	"empleados.h"
+	"metodosEmpleados.h"
+	"metodosEditoriales.h"
+	"editoriales.h"
+	"metodosAutores.h"
+	"autores.h"
+	"metodosLibros.h"
+	"libros.h"
+	"metodosVentas.h"
+	"ventas.h"
+	"configuracion.h"
+	"reportes.h"
+
+1571584339 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1594075260 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\empleados.h
+
+1593992378 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\metodosempleados.h
+
+1593992304 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\metodoseditoriales.h
+
+1594075141 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\editoriales.h
+
+1594147080 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\metodosautores.h
+
+1593991386 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\autores.h
+
+1594075113 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\metodoslibros.h
+	<iostream>
+
+1594075286 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\libros.h
+
+1593994286 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\metodosventas.h
+
+1594074895 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\ventas.h
+
+1594150511 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\configuracion.h
+
+1593992638 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado(ahora con colores)\reportes.h
+
+1594412395 source:d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<cstdio>
+	"rlutil.h"
+	"empleados.h"
+	"metodosEmpleados.h"
+	"metodosEditoriales.h"
+	"editoriales.h"
+	"metodosAutores.h"
+	"autores.h"
+	"metodosLibros.h"
+	"libros.h"
+	"metodosVentas.h"
+	"ventas.h"
+	"configuracion.h"
+	"reportes.h"
+
+1571584339 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1594414257 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\empleados.h
+
+1594413476 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\metodosempleados.h
+
+1594413316 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\metodoseditoriales.h
+
+1594413308 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\editoriales.h
+
+1594413009 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\metodosautores.h
+
+1594414335 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\autores.h
+
+1594413557 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\metodoslibros.h
+	<iostream>
+
+1594413557 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\libros.h
+
+1594413861 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\metodosventas.h
+
+1594413861 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\ventas.h
+
+1594413871 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\configuracion.h
+
+1594257185 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\reportes.h
+
+1594488604 source:d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<cstdio>
+	"rlutil.h"
+	"empleados.h"
+	"metodosEmpleados.h"
+	"metodosEditoriales.h"
+	"editoriales.h"
+	"metodosAutores.h"
+	"autores.h"
+	"metodosLibros.h"
+	"libros.h"
+	"metodosVentas.h"
+	"ventas.h"
+	"configuracion.h"
+	"reportes.h"
+
+1571584340 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1594519018 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\empleados.h
+
+1594519008 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\metodosempleados.h
+
+1594519180 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\metodoseditoriales.h
+
+1594520396 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\editoriales.h
+
+1594518830 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\metodosautores.h
+
+1594514904 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\autores.h
+
+1594518623 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\metodoslibros.h
+	<iostream>
+
+1594514789 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\libros.h
+
+1594518751 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\metodosventas.h
+
+1594510971 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\ventas.h
+
+1594520275 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\configuracion.h
+
+1594514165 d:\matias\facultad\cuatrimestre 2\lab 2\tpfinalterminado\tpfinalterminado\reportes.h
+
+1594608353 source:c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<cstdio>
+	"rlutil.h"
+	"empleados.h"
+	"metodosEmpleados.h"
+	"metodosEditoriales.h"
+	"editoriales.h"
+	"metodosAutores.h"
+	"autores.h"
+	"metodosLibros.h"
+	"libros.h"
+	"metodosVentas.h"
+	"ventas.h"
+	"configuracion.h"
+	"reportes.h"
+
+1571584340 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1594839972 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\empleados.h
+
+1594519008 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\metodosempleados.h
+
+1594519180 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\metodoseditoriales.h
+
+1594839536 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\editoriales.h
+
+1594518830 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\metodosautores.h
+
+1594841181 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\autores.h
+
+1594671559 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\metodoslibros.h
+	<iostream>
+
+1594901020 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\libros.h
+
+1594518751 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\metodosventas.h
+
+1594861552 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\ventas.h
+
+1594842860 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\configuracion.h
+
+1594514165 c:\users\matia\desktop\tpfinalterminado\tpfinalterminado\reportes.h
+
